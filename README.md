@@ -22,4 +22,4 @@
 </div>
 
 ### Estou aprendendo: frontend e python!
-> Sou um desenvolvedor de Brasil, SP
+> Sou um desenvolvedor do Brasil, SP
