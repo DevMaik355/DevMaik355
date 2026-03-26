@@ -23,3 +23,4 @@
 
 ### Estou aprendendo: frontend e python!
 > Sou um desenvolvedor do Brasil, SP
+> No momento estou cursando um técnico de DS no 3° ano do ensino médio.
