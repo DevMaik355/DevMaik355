@@ -21,6 +21,6 @@
   <a href="https://www.linkedin.com/in/vitória-eduarda-teruel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Estou aprendendo: frontend e python!
+### Estou aprendendo!
 > Sou um desenvolvedor do Brasil, SP
 > No momento estou cursando um técnico de DS no 3° ano do ensino médio.
